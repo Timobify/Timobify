@@ -5,7 +5,7 @@ Dedicated Software Engineer with a diverse skill set encompassing both Backend a
 ### 💻 Tech Toolbox:
 Languages: Python, JavaScript, PHP, C#, Java, Typescript
 
-Frameworks: Django, VueJS, ASP.NET core, ReactJS
+Frameworks: Django, VueJS, ASP.NET core, ReactJS, NextJS
 
 Databases: PostgreSQL, MySQL, MS SQL Server
 
