@@ -1,6 +1,6 @@
 ## 👋 Hello World, I'm Timothy!
 
-Dedicated Software Engineer with a diverse skill set encompassing both Backend and Front-End Engineering. Proficient in a range of programming languages. 🌈✨
+Dedicated Software Engineer with a diverse skill set encompassing both Backend and Front-End Engineering. Proficient in a range of programming languages. ✨
 
 ### 💻 Tech Toolbox:
 Languages: Python, JavaScript, PHP, C#, Java, Typescript
