@@ -19,7 +19,9 @@ Facilitating collaborative project success through effective communication and w
 
 ### 🌐 Let's Connect & Collaborate:
 LinkedIn: [Timothy Kum'bweza Banda](https://mw.linkedin.com/in/timothy-kum-bweza-banda-702786115)
+
 Twitter: [@timobify](https://twitter.com/timobify)
-Website: https://timobify.com
+
+Website: (https://timobify.com)
 
 ### 🤝 Open to collaboration and new opportunities. Let's create something awesome together! 🚀
